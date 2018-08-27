@@ -1,0 +1,2 @@
+# TmuxBase
+Tmux base confguration
